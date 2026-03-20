@@ -212,7 +212,7 @@ export default function App() {
   setSelected({ ...claim, result: null, analyzing: true });
 
   try {
-    const res = await fetch("http://localhost:3001/api/analyze", {
+    const res = await fetch("https://sentinel-ai-ajow.onrender.com/api/analyze", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
