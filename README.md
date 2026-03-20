@@ -265,20 +265,3 @@ npm run dev
 
 ---
 
-## 🧨 Final Thought
-
-> Sentinel AI transforms fraud detection from
-> **“Where are you?” → “Does your behavior make sense?”**
-
----
-
-## 🔥 (Optional but HIGHLY recommended for hackathon edge)
-
-Add these next:
-
-* 🟢 Live demo link (Render / Vercel)
-* 🎥 Demo GIF (showing API response + UI)
-* 🏷️ Badges (build, license, tech stack)
-
-
-Just tell me 👍
