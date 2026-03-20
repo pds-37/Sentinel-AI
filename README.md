@@ -246,8 +246,7 @@ But they **cannot easily fake behavior patterns consistently**
 ## ⚡ Getting Started
 
 ```bash
-git clone https://github.com/your-username/sentinel-ai.git
-
+git clone https://github.com/pds-37/Sentinel-AI.git
 cd sentinel-ai
 
 # Install dependencies
